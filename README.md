@@ -1,6 +1,6 @@
 # Collin-Ogren-SNHU-Portfolio
 ## CS 305 Module Eight Journal
-### Project 2
+### Artemis Financial Practices for Secure Software Report
 1. Artemis Financial is a financial firm which runs a web service that handles the sensitive financial information of its users which includes international business and government agencies. Artemis Financial requested that their web application be updated to comply with their software security standards and ensure high-quality, secure code.
 2. I had great success in identifying and eliminating dependency vulnerabilities. The OWASP Dependency Check was highly valuable, especially because Artemis Financial was using dependencies that were many years out of date and therefore had many vulnerabilities. I did well adhering to secure coding standards when creating new code and refactoring old code. Secure coding practices are important because it helps to keep information secure. It is vital to keep information secure in order for organizations to retain trust, avoid lawsuits and government penalties, and operate effectively
 3. The static testing phase was a little tricky at times because the dependencies were so old that there were some 130+ vulnerabilities to sift through. However, upon further investigation, it appeared that nearly all dependency vulnerabilities could be solved through updating. This serves as a reminder that one of the most important pieces of secure programming is ensuring that the dependencies that a system is based on stay up to date and secure.
